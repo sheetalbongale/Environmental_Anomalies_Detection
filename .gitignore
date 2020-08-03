@@ -131,3 +131,7 @@ dmypy.json
 .DS_Store
 .vscode/
 .Rhistory
+
+# large files
+2018-01-01__2019-01-01__SConservatory_npWeekdayAllOrderedSensorsTimeRef.npy
+2018-01-01__2019-01-01__NConservatory_npWeekdayAllOrderedSensorsTimeRef.npy
